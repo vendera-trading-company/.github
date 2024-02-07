@@ -1,5 +1,4 @@
 ## Hello World 👋
-<br>
 Vendera Trading Company<br>
 651 N Broad Street<br>
 Middletown / 19709<br>
